@@ -67,7 +67,7 @@ This last domain ( **_ppq.apple.com_**) will need to be used wisely but we will 
 
 6. It will prompt you to install a Profile, allow it
 
-7. Go to the _Settings_ app and click on the downloaded Profile (it’ll be called _NextDNS (xxxxx)_. Enter your passcode and install it
+7. Go to the _Settings_ app and click on the downloaded Profile, it’ll be called _NextDNS (xxxxx)_. Enter your passcode and install it
 
 8. Go to _Settings>General>VPN & Management>DNS_ and select _NextDNS (xxxxx)_
 
