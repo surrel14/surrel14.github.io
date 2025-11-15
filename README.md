@@ -98,7 +98,7 @@ Now that our DNS is set up we need to install Ksign or Esign using a leaked ente
 
 9. Your device will restart and you will be prompted to enter your passcode to allow the Profile installation
 
-10. Once the device is on, click on the Ksign/Esign app, if it opens go to the next step, if it doesn’t, go to _Settings>General>VPN & Management_, click on the certificate name and then to _Verify app_. Now _Verify app_ will disappear and you should be able to open Ksign/Esign. If _Verify app_ doesn’t disappear that cert will not work and you will have to go back to step 3 and repeat the process
+10. Once the device is on, click on the Ksign/Esign app, if it opens go to the next step, if it doesn’t, go to _Settings>General>VPN & Management_, click on the certificate name and then to _Verify app_. Now _Verify app_ will disappear and you should be able to open Ksign/Esign. If _Verify app_ doesn’t disappear that cert will not work and you will have to go back to step 4 and repeat the process
 
 11. Go back to NextDNS settings in Safari and turn back on _ppq.apple.com_ then turn off your data/wifi for some seconds and then turn it on
 
