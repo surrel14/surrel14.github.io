@@ -147,7 +147,7 @@ For the ones, like me, that prefers Feather over Ksign/Esign here’s how to ins
 
 4. Open Feather and go to _Settings>Certificates_ then click on the _+_ in the top right corner 
 
-5. Select _Import Certificate File_ and the file picker will open. Navigate to the _certificates_ folder we previously unzipped, open it and open the folder called with the same name of your certificate. Select the _.p12_ file and import it. Repeat the same process for by clicking on the _+_ in the top right corner and select _Import Provisioning File_, then select the _mobileprovision_ file. In the _Password_ field enter the password which is _WSF_ and click _Save_. Now the certificate is imported
+5. Select _Import Certificate File_ and the file picker will open. Navigate to the _certificates_ folder we previously unzipped, open it and open the folder called with the same name of your certificate. Select the _.p12_ file and import it. Repeat the same process for by clicking on the _+_ in the top right corner and select _Import Provisioning File_, then select the _.mobileprovision_ file. In the _Password_ field enter the password which is _WSF_ and click _Save_. Now the certificate is imported
 
 6. To install apps go to the _Library_ tab, click on the _+_ in the top right corner then _Import from Files_. Import your app, sign it and install it. Always remember to **turn off/on _ppq.apple.com_ and data/wifi evertime you’re installing an app**
 
