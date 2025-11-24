@@ -153,7 +153,7 @@ For the ones, like me, that prefers Feather over Ksign/Esign here’s how to ins
 
 
 ### Optional (needed if you want ChatGPT working):
-- Go to the _Whitelist_ section in your NextDNS settings in Safari and add this domains:
+- Go to the _Whitelist_ section in your NextDNS settings in Safari and add these domains:
 
 >
 
