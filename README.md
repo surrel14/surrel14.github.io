@@ -168,7 +168,7 @@ For the ones, like me, that prefers Feather over Ksign/Esign here’s how to ins
 As long as you follow all the steps correctly you shouldn’t be revoked but keep in mind that this is a method that takes advantage of leaked enterprise certificates so can be unreliable. Check the certificate expiration date in Feather/Ksign/Esign; when you’ll be close (some days) to the expiration date you will have to find a new certificate. 
 
 
-Thanks to u/hmd_msrf_k_ who helped me to make this guide as correct as possible. Hope this guide will be helpful, keep it up and good sideloading. 
+Thanks to [u/hmd_msrf_k_](https://www.reddit.com/u/hmd_msrf_k_/s/DQgKPHmmao) who helped me to make this guide as correct as possible. Hope this guide will be helpful, keep it up and good sideloading. 
 
 
 
