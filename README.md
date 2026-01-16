@@ -108,7 +108,7 @@ Now that our DNS is set up we need to install Ksign or Esign using a leaked ente
 
 At this point we have the DNS set up and Ksign/Esign installed. Let’s say that the hard part is over. Now we will have to add the certificate file to our Ksign/Esign app:
 
-1. Open _[this link]([https://raw.githubusercontent.com/esigncert/khoindvn/refs/heads/main/document/DNS/Certs-Khoindvn.zip]_ and save the _.zip_ file somewhere in your _Files_ app. Open the _Files_ app to the directory you saved the _.zip_ file and simply click on it to unzip it
+1. Open _[this link](https://raw.githubusercontent.com/esigncert/khoindvn/refs/heads/main/document/DNS/Certs-Khoindvn.zip)_ and save the _.zip_ file somewhere in your _Files_ app. Open the _Files_ app to the directory you saved the _.zip_ file and simply click on it to unzip it
 
 2. If you have KSign open it and go to _Settings>Certificates>Import KSign File_ and click on the _+_ in the top right corner. If you have Esign open it and go to _Settings>Import Resource_. Go to the directory where you previously unzipped the _.zip_ file and open the unzipped  folder. There will be two folders inside: _KsignCert_ and _EsignCert_. Open the folder that match with your installer (KSign/Esign) and select the certificate with the same name of the certificate that you previously trusted in the _Settings_ app under _General>VPN & Management_. If you have Esign a prompt  will pop up asking if you want to import certificate management, select _Import_ 
 
